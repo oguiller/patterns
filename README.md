@@ -1,0 +1,1 @@
+This repo holds the examples of design patterns for the Design Patterns Course (DP1)
